@@ -2,4 +2,3 @@ Première ligne de notes
 Deuxième ligne de notes
 Nouvelle ligne
 Modif fichier
-Commit à annuler avec reset
