@@ -1,0 +1,3 @@
+[submodule "sous-module-test"]
+	path = sous-module-test
+	url = https://github.com/octocat/Hello-World.git
